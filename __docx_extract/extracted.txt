@@ -1,0 +1,361 @@
+UBND TỈNH BÌNH DƯƠNGCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TRƯỜNG ĐH THỦ DẦU MỘTĐộc lập - Tự do - Hạnh phúc
+CHƯƠNG TRÌNH TRÌNH ĐỘ ĐẠI HỌC NGÀNH ĐÀO TẠO: KỸ THUẬT PHẦN MỀM
+ĐỀ CƯƠNG HỌC PHẦN
+Thông tin tổng quát
+- Tên học phần: TRÍ TUỆ NHÂN TẠO
+- Tên tiếng Anh: ARTIFICIAL INTELLIGENCE
+- Mã học phần: TI154
+- Học kỳ: 6,7
+- Thuộc khối kiến thức/kỹ năng:
+Cơ bảnCơ sở ngành
+Chuyên ngànhĐồ án/Khóa luận tốt nghiệp
+- Số tín chỉ: 2+1
++ Số tiết lý thuyết/số buổi: 30/7
++ Số tiết thực hành/số buổi: 30/6
+- Học phần tiên quyết: Kỹ thuật lập trình, toán rời rạc, phương pháp luận nghiên cứu khoa học, Cấu trúc dữ liệu và giải thuật
+- Học phần học trước: Toán rời rạc
+Mô tả học phần
+Môn học cung cấp cho sinh viên kiến thức về một số kỹ thuật và phương pháp quan trọng của trí tuệ nhân tạo như kỹ thuật tìm kiếm, phương pháp biểu diễn tri thức và suy diễn tự động, các phương pháp học máy dùng cho nhận dạng và phân tích dữ liệu, xử lý ngôn ngữ tự nhiên. Ngoài các khái niệm lý thuyết, học phần cũng đề cập tới việc ứng dụng các kỹ thuật trí tuệ nhân tạo để giải quyết các bài toán thực tế.
+Mục tiêu
+Kiến thức: Sau khi học xong phần này, sinh viên có khả năng nắm bắt và trình bày lại một cách rõ ràng các khái niệm và những kiến thức cần thiết về trí tuệ nhân tạo. Cách thức biểu diễn vấn đề thực tế dưới dạng trí tuệ nhân tạo.
+Kỹ năng: Môn học rèn luyện các kỹ năng tư duy phản biện, tư duy kỹ thuật, tư duy hệ thống để giải quyết các trường hơp cụ thể được đặt ra thông qua thực hành trên phòng lab và các bài tập làm ở nhà. Sử dụng được các kiến thức của trí tuệ nhân tạo để giải quyết một số vấn đề thực tế
+Thái độ: Nhận biết trách nhiệm xã hội, tác phong, kỷ luật, Đạo đức nghề nghiệp
+Nguồn học liệu
+Tài liệu bắt buộc:
+Từ Minh Phương (2016). Giáo trình Nhập Môn Trí Tuệ Nhân Tạo. NXB Thông tin và Truyền thông.
+Tài liệu không bắt buộc:
+Nguyễn Quang Hoan (2007), Giáo trình Nhập Môn Trí Tuệ Nhân Tạo, Học viện Bưu chính Viễn thông.
+Onyango, Isaack (2019). Artificial intelligence and applications, Arcler Press
+Chuẩn đầu ra học phần
+N (none supporting): Không đóng góp
+S (supporting): Đóng góp (môn học giúp sinh viên thể hiện các yêu cầu đơn giản của ELO trong phạm vi các bài tập ứng dụng, thực hành).
+H (highly supporting): Đóng góp quan trọng (môn học giúp sinh viên thể hiện các yêu cầu phức tạp của ELO trong các tình huống mô phỏng hay thực tiễn).
+Mã HP
+Tên HP
+Mức độ đóng góp
+TI154
+TTNT
+ELO1
+ELO2
+ELO3
+ELO4
+ELO5
+ELO6
+ELO7
+ELO8
+ELO9
+ELO10
+N
+S
+N
+N
+N
+N
+H
+H
+N
+S
+Chi tiết Chuẩn đầu ra được mô tả trong bảng sau :
+Chuẩn đầu ra học phần
+CĐR của
+CTĐT (ELOx)
+Kiến thức
+CELO1
+Biểu diễn được bài toán cần giải quyết trong một
+không gian trạng thái và thiết kế được một giải thuật tìm kiếm heuristic thích hợp để giải nó
+ELO2
+CELO2
+Phân tích tình huống ứng dụng giải thuật cơ bản về việc làm cho máy tính chơi trò chơi và lập kế hoạch
+ELO2
+Kỹ năng
+CELO3
+Sử dụng được logic, mạng Bayes, và tập hợp mờ để biểu diễn và suy luận tri thức.
+ELO7
+CELO4
+Hiểu biết được các nguyên lý, và giải thuật cơ bản
+về việc làm cho máy tính tự học.
+ELO8
+CELO5
+Sử dụng phần mềm Matlab đáp ứng yêu cầu mô phỏng họat động của mạng neural nhân tạo
+ELO8
+Thái độ
+CELO6
+Nhận thức sự cần thiết và khả năng học tập suốt
+đời.
+ELO10
+Chỉ báo thực hiện chuẩn đầu ra
+Chuẩn đầu ra
+(CELO)
+Chỉ báo thực hiện
+Mô tả chỉ báo thực hiện
+CELO1
+CELO1.1
+Xây dựng các không gian trạng thái để biểu diễn bài toán cần giải quyết
+CELO1.2
+Thiết kế được một giải thuật tìm kiếm heuristic thích hợp
+cho giải bài toán đặt ra.
+CELO1.3
+Sử dụng được logic để biểu diễn và suy luận tri thức cơ
+bản
+CELO2
+CELO2.1
+Sử dụng được cấu trúc mạng Bayes để biểu diễn và suy
+luận tri thức không chắc chắn
+CELO2.2
+Sử dụng được tập hợp mờ để biểu diễn và suy luận tri thức không chính xác
+Chuẩn
+đầu ra (CELO)
+Chỉ báo thực hiện
+Mô tả chỉ báo thực hiện
+CELO3
+CELO3.1
+Hiểu biết được một số khái niệm và nguyên lý cơ bản về việc làm cho máy tính tự học
+CELO3.2
+Hiểu biết được một số giải thuật cơ bản về việc làm cho máy tính tự học
+CELO4
+CELO4.1
+Hiện thực được một số hệ thống thông minh đơn giản
+CELO4.2
+Hiện thực được giải thuật cơ bản làm cho máy tính chơi trò chơi.
+CELO5
+CELO5.1
+Sử dụng Matlab xây dựng mạng neural nhân tạo 3 lớp để học trên tập dữ liệu đã được gán nhãn
+CELO5.2
+Sử dụng Matlab để thưc hiện bài toán học không giám sát
+CELO6
+CELO6.1
+Thay đổi nhận thức về việc học tập suốt đời
+CELO6.2
+Phát triển một kế hoạch cá nhân để học tập suốt đời
+Đánh giá học phần
+Hình thức KT
+Nội dung
+Thời điểm
+Chỉ báo thực hiện
+Tỉ lệ (%)
+Đánh giá quá trình
+50
+Thuyết trình
+Mô tả một số vấn đề thực tế được giải quyết bằng các giải pháp của môn trí tuệ nhân tạo
+Mô tả giải pháp,công cụ của môn trí tuệ nhân tạo hiện đại để giải quyết vấn đề thực tế kỹ thuật
+Tuần 7
+CELO1.3 CELO2.2 CELO4.1, CELO4.2
+CELO6.2
+20
+Bài tập nhóm
+Cho một bài toán nhận dạng chưa xác định tập thuộc tính, Hãy:
+Tìm công cụ máy học để xác tập thuộc tính
+Tìm mô hình và thuật toán phù hợp
+Tuần 8
+Tuần 9
+Tuần 10,
+11
+CELO2.1, CELO2.2, CELO2.3
+CELO3.2, CELO4.1, CELO4.2
+30
+Kiểm tra cuối kỳ
+50
+Đồ án môn học
+Cho tình huống không đầy đủ thông tin
+-Xác định thách thức
+CELO3.1
+CELO4.1
+50
+Hình thức KT
+Nội dung
+Thời điểm
+Chỉ báo thực hiện
+Tỉ lệ (%)
+-Đê xuất giải pháp
+CELO5.1
+CELO6.1
+Nội dung chi tiết học phần
+Buổi
+Nội dung
+Hoạt động dày và học
+Chỉ báo thực hiện
+Tài liệu tham khảo
+1
+Chương 1.
+DẪN NHẬP
+Định nghĩa Trí tuệ Nhân tạo
+Lịch sử phát triển của trí tuệ nhân tạo
+Một số bài toán dẫn nhập
+Hoạt động dạy:
+Dạy lý thuyết:
+-Thuyết giảng, thảo luận nhóm
+-Thảo luận về trí tuệ nhân tạo
+Elearning: Giới thiệu sinh viên hệ thống Elearning
+Hoạt động học:
+Trên lớp : Tham gia các hoạt động học tập
+Tự học :
+Sinh viên đọc trước bài đọc ở nhà
+-Đọc thêm tài liệu để củng cố kiến thức Mô hình, cấu trúc mạng neural sinh học/ nhân tạo
+Hoat động đánh giá
+Đánh giá trên lớp:
++ Khơi gợi và phân tích các ý kiến của SV trong thảo luận
++ Quan sát thái độ tham gia các hoạt động học tập trên lớp của SV.
+CELO1.1 CELO3,1 CELO5.1 CELO5.2
+Giáo trình [1], trang 2 đến 25
+- Đánh giá tự học:
++ Đánh giá mức độ hoàn thành bài tập chương 1
++ Đánh giá thái độ của sinh viên đối với bài
+tập
+2,3,4
+Chương 2.
+CÁCH TIẾP CẬN CỦA BÀI TOÁN TÌM KIẾM
+Không gian trạng thái
+Các chiến lược tìm kiếm
+Các đặc tính của một bài toán tìm kiếm
+Hoạt động dạy:
+Dạy lý thuyết:
+-Thuyết giảng, thảo luận nhóm
+-Thảo luận vềbài toán tìm kiếm
+Elearning: Bài toán tìm kiếm
+Hoạt động học:
+Trên lớp : Tham gia các hoạt động học tập
+Tự học :
+Sinh viên đọc trước bài đọc ở nhà
+-Đọc thêm tài liệu để củng cố kiến thức Tìm hiểu một số vấn đề được giải quyết thông qua bài toán tìm kiếm
+Một số thuật toán tìm kiếm trên mặt bậc 2
+Hoat động đánh giá
+Đánh giá trên lớp:
++ Khơi gợi và phân tích các ý kiến của SV trong thảo luận
++ Quan sát thái độ tham gia các hoạt động học tập trên lớp của SV.
+Đánh giá tự học:
++ Đánh giá mức độ hoàn thành bài tập chương 2
++ Đánh giá thái độ của sinh viên đối với bài
+tập
+CELO1.2 CELO3.1 CELO3.2
+Giáo trình [1], trang 26 đến 55
+Tài liệu tham khảo [1]
+5,6
+Chương 3
+TÌM KIẾM THEO KINH NGHIỆM
+Sinh-và-thử
+Leo đồi
+Mô phỏng tôi luyện
+Tìm kiếm tốt nhất-trước
+Hoạt động dạy:
+Dạy lý thuyết:
+-Thuyết giảng, thảo luận nhóm
+-Thảo luận về bài toán tìm kiếm Sinh và Thử, Leo đồi, Mô phỏng tôi luyện
+Elearning: Bài toán tìm kiếm trước nhất –trước
+Hoạt động học:
+Trên lớp : Tham gia các hoạt động học tập
+Tự học :
+Sinh viên đọc trước bài đọc ở nhà
+-Đọc thêm tài liệu để củng cố kiến thức Tìm hiểu ý tưởng của thuật toán tìm kiếm Hoat động đánh giá
+Đánh giá trên lớp:
++ Khơi gợi và phân tích các ý kiến của SV trong thảo luận
++ Quan sát thái độ tham gia các hoạt động học tập trên lớp của SV.
+Đánh giá tự học:
++ Đánh giá mức độ hoàn thành bài tập chương 3
++ Đánh giá thái độ của sinh viên đối với bài
+tập
+CELO1.3 CELO3.1 CELO3.2
+Giáo trình [1]
+Tài liệu tham khảo [2]
+7
+Chương 4.
+CHƠI TRÒ CHƠI
+4.1. Giải thuật Minimax
+Hoạt động dạy:
+Dạy lý thuyết:
+-Thuyết giảng, thảo luận nhóm
+-Thảo luận vềbài toán tìm kiếm
+- Elearning: Giải thuật Minimax, Alpha -
+CELO1.5 CELO2.1
+CELO3.1
+Giáo trình [1], trang 56 đến 90
+Tài liệu tham khảo
+4.2. Cắt nhánh Alpha-Beta
+4.3. Các phiên bản phát triển của giải thuật cơ sở
+Beta
+Hoạt động học:
+Trên lớp : Tham gia các hoạt động học tập
+Tự học :
+Sinh viên đọc trước bài đọc ở nhà
+-Đọc thêm tài liệu để củng cố kiến thức Tìm hiểu một số vấn đề được giải quyết thông qua bài toán trò chơi
+Cơ chế lan truyền mã độc
+Hoat động đánh giá
+Đánh giá trên lớp:
++ Khơi gợi và phân tích các ý kiến của SV trong thảo luận
++ Quan sát thái độ tham gia các hoạt động học tập trên lớp của SV.
+Đánh giá tự học:
++ Đánh giá mức độ hoàn thành bài tập chương 4
++ Đánh giá thái độ của sinh viên đối với bài
+tập
+CELO3.2
+[1], [2]
+8, 9
+Chương 5
+LẬP KẾ HOẠCH
+Bản chất của lập kế hoạch
+Lập kế hoạch tuyến tính
+Lập kế hoạch phi tuyến
+Hoạt động dạy:
+Dạy lý thuyết:
+-Thuyết giảng, thảo luận nhóm
+-Thảo luận về lập kế hoạch tuyến tính
+Elearning: Lập kế hoạch phi tuyến
+Hoạt động học:
+Trên lớp : Tham gia các hoạt động học tập
+Tự học :
+Sinh viên đọc trước bài đọc ở nhà
+-Đọc thêm tài liệu để củng cố kiến thức
+CELO2.3 CELO3.1 CELO3.2
+Giáo trình [1], trang 56 đến 90
+Tài liệu tham khảo [1], [2]
+Tìm hiểu một số vấn đề được giải quyết thông qua bài toán tìm kiếm
+Một số thuật toán lập kế hoạch
+Hoat động đánh giá
+Đánh giá trên lớp:
++ Khơi gợi và phân tích các ý kiến của SV trong thảo luận
++ Quan sát thái độ tham gia các hoạt động học tập trên lớp của SV.
+- Đánh giá tự học:
++ Đánh giá mức độ hoàn thành bài tập chương 5
++ Đánh giá thái độ của sinh viên đối với bài
+tập
+KẾ HOẠCH THỰC HÀNH
+Buổi
+Nội dung
+Chỉ báo thực hiện
+Tài liệu tham khảo
+10
+Bài tập chương 2
+Chọn không gian tìm kiếm phù hợp cho bài toán huấn luyện phân cụm dữ liệu
+CELO3.1,
+[1]
+11
+Bài tập chương 3
+Lời giải cho bài toán tối ưu dựa trên giải thuật Mô phỏng tôi luyện
+CELO3.2 CELO1.4,
+[2,3]
+12
+Bài tập chương 3
+Lời giải cho bài toán tối ưu dựa trên giải thuật Mô phỏng tôi luyện
+CELO1.5,
+CELO2.3,
+[2,3]
+(tiếp theo)
+CELO3.1, CELO3.2
+13
+Bài tập chương 4
+Trình bày và cài đặt giải thuật minimax cho game caro
+CELO4.1 CELO4.2 CELO5.1
+CELO6.1
+[2,3]
+14
+Bài tập chương 4
+Trình bày và cài đặt giải thuật minimax cho game caro (tiếp theo)
+CELO4.1 CELO4.2 CELO5.1
+CELO6.1
+[2,3]
+15
+Bài tập chương 5
+Trình bày về lập kế hoạch tuyến tính Trình bày về lập kế hoạch phi tuyến
+CELO3.1 CELO3.2 CELO5.1 CELO5.2
+CELO6.2
+[2,3]
