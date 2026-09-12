@@ -3,7 +3,7 @@ name = "pacman-ai"
 version = "1.0.0"
 description = "Pac-Man game with AI search algorithms (BFS, DFS, UCS, A*, Minimax, Alpha-Beta)"
 authors = [
-    {name = "Natnael Yohanes", email = "mataniayohanes@gmail.com"}
+    {name = "LeoUrion", email = "n.q.chuyenminecraft@gmail.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.8.1"
