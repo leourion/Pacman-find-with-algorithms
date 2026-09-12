@@ -191,11 +191,7 @@ Project **không dùng file `.env` hay secret nào**. Mọi cấu hình nằm tr
 
 ## 🖼️ Screenshots
 
-<<<<<<< HEAD
-<!-- Thêm screenshot của project tại đây -->
-=======
 ![alt text](image.png)
->>>>>>> 70dfef2 (Update project)
 
 ## 📚 Cách sử dụng
 
@@ -212,17 +208,8 @@ Chi tiết ý nghĩa từng bảng hiển thị có trong [`HUONG_DAN_DO_AN_PACM
 
 ## 👨‍💻 Thành viên
 
-<<<<<<< HEAD
-- Tác giả khai báo trong `pyproject.toml`: Natnael Yohanes
-- Danh sách thành viên đầy đủ: [CẦN BỔ SUNG]
-
-## 📄 License
-
-Chưa có file LICENSE trong repo — license chưa được xác định. [CẦN BỔ SUNG]
-=======
 - Tác giả : LeoUrion
 - Danh sách thành viên đầy đủ: DuyKhanh
->>>>>>> 70dfef2 (Update project)
 
 ---
 
